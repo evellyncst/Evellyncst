@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Evellyn Costa
 **`Desenvolvedora em formação | Ciência de Dados & IA`**
 
-Me chamo Evellyn Costa, tenho 20 anos e sou natural de São Paulo. Atualmente, trabalho com desenvolvimento de sistemas, atuando com Front-end, Back-end e Banco de Dados, além de estar explorando áreas como Cloud, Redes e Infraestrutura.
+Me chamo Evellyn Costa, tenho 20 anos e sou natural de São Paulo. Estou cursando Ciência de Dados e Inteligência Artificial na UNISO e atualmente, trabalho com desenvolvimento de sistemas, atuando com Front-end, Back-end e Banco de Dados, além de estar explorando áreas como Cloud, Redes e Infraestrutura.
 
 <div> 
   <a href="https://instagram.com/evyyh1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
